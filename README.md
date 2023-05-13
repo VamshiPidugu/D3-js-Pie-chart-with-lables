@@ -19,7 +19,7 @@ percentage: 10.6414643242543933,
 
 as the name is identify the each arc the value is used for the arc width and percentage is added to the arc with placing line to the arc.
 
-d3.arc().innerRadius(0).outerRadius();
+d3.arc().innerRadius(0).outerRadius(outerRadiusvalue);
 
 # Dimensions
 
