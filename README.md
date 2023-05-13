@@ -5,6 +5,7 @@
 # commands to run the application
 
 npm install
+
 npm start
 
 The Pie chart designed using d3 where the json structure used for the pie chart is
