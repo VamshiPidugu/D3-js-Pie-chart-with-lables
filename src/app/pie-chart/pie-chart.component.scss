@@ -1,0 +1,39 @@
+.pie {
+  margin-left: 20px;
+}
+
+svg {
+  float: left;
+}
+
+.legend {
+  float: left;
+  font-family: 'Verdana';
+  font-size: 0.7em;
+}
+
+.pie text {
+  font-family: 'Verdana';
+  fill: #000;
+}
+
+.pie .name-text {
+  font-size: 0.8em;
+}
+
+.pie .value-text {
+  font-size: 3em;
+}
+
+.pie-chart-container {
+  margin: 100px;
+}
+.polyline{
+  color:red($color: #000000);
+}
+polyline {
+  opacity: .3;
+  stroke: rgb(92, 92, 112);
+  stroke-width: 2px;
+  fill: none;
+}
