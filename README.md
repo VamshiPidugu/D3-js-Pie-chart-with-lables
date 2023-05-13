@@ -1,4 +1,4 @@
-# D3-js-Pie-chart-with-lables-
+# D3-js-Pie-chart-with-lables
 
 (https://stackblitz.com/edit/angular-ivy-j1dcvp)
 
